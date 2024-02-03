@@ -68,7 +68,6 @@ const Create = () => {
              id="fname"
              name="Price" />
             <br />
-          
           <br />
           <img  alt="Posts" width="200px" height="200px" src={image ? URL.createObjectURL(image):""}></img>
             <br />

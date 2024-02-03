@@ -94,8 +94,6 @@
   margin-right: 5px;
 }
 
-.language svg {
-}
 
 .span {
   text-decoration: none;
@@ -110,6 +108,7 @@
   margin: 0;
   background-color: black;
   height: 2px;
+  text-decoration: none;
 }
 
 .loginPage a{
